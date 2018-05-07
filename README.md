@@ -4,4 +4,4 @@
 
 ![Codecov branch](https://img.shields.io/codecov/c/github/codecov/example-python/master.svg)
 
-[![Build Status](https://img.shields.io/cjcmattsson/ci/master.svg?style=flat)](https://travis-ci.org/cjcmattsson/ci)
+[![Build Status](https://img.shields.io/travis/cjcmattsson/CI/master.svg)](https://travis-ci.org/cjcmattsson/CI)
