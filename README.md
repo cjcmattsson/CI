@@ -1,7 +1,7 @@
 # CI
 
-[![StyleCI](https://styleci.io/repos/122070064/shield?branch=andreas)](https://styleci.io/repos/122070064)
+[![StyleCI](https://styleci.io/repos/27216826/shield?style=flat)](https://styleci.io/repos/27216826)
 
 ![Codecov branch](https://img.shields.io/codecov/c/github/codecov/example-python/master.svg)
 
-![Travis](https://img.shields.io/travis/USER/REPO.svg)
+[![Build Status](https://img.shields.io/cjcmattsson/ci/travis/master.svg?style=flat)](https://travis-ci.org/cjcmattsson/ci)
